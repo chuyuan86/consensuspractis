@@ -1,5 +1,8 @@
 package yuan.qu.consensus.entity;
 
+/**
+ * 商品
+ * */
 public class Product {
 
     private Long id;
